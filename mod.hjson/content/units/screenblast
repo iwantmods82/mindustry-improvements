@@ -1,13 +1,13 @@
 Name:screenblast
-Description:fires an multi target hard hitting beam
+Description:fires-an-multi-target-hard-hitting-beam
 speed:0.85
 boostMultiplyer:2
 rotateSpeed:0.55
 health:280
-canBoost: true 1
-range: 15
-maxRange: 15
+canBoost:true
+range:15
+maxRange:15
 payloadCapacity=0
 itemCapacity=40
-dpsEstimate 30
+dpsEstimate30
 weapons:healing_shotgun
