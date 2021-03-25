@@ -1,0 +1,7 @@
+name: "mindustryimproved"
+displayName: "mindustryimproved."
+author: Yourself
+description: "an mod for killing the game, figuratively"
+version: "0.0"
+minGameVersion: "126.2"
+hidden: true
